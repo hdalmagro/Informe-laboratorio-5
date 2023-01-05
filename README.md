@@ -49,15 +49,34 @@ Mida el voltaje y la corriente en el resistor R5.
 ![image](https://user-images.githubusercontent.com/116781677/210843815-121b1e55-317c-4107-87c4-0c97de183bd5.png)
 ![image](https://user-images.githubusercontent.com/116781677/210843985-82874327-a5b2-40df-8405-e97d88a3ee73.png)
 
-
 Desconecte el resistor R5 y mida el voltaje en el circuito abierto.
+
+![image](https://user-images.githubusercontent.com/116781677/210844842-68a1b8a7-f877-4870-8bd4-3a1ffd7a86d2.png)
 
 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.
 
+![image](https://user-images.githubusercontent.com/116781677/210845385-dac17338-865c-4f4c-bd18-481128ec3d6c.png)
+
 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo.
+
+![image](https://user-images.githubusercontent.com/116781677/210851105-eb84fb17-f68c-41a5-b048-e96f193b74cf.png)
+![image](https://user-images.githubusercontent.com/116781677/210854422-cab9270c-83c6-4086-8f27-25cf7448661f.png)
+
+TABLAS DE DATOS
+
 
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+Tabla 1
+
+Valores del Circuito Equivalente de Thévenin
+
+
+
+Tabla 2 
+
+Comprobación del Teorema de Thévenin.
 
 
 # 5. VIDEO
@@ -65,5 +84,10 @@ Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida l
 
 # 6. CONCLUSIONES
 
+En la práctica, hemos llegado a una conclusión de que, usando el teorema, podemos usar circuitos con varias fuentes de carga conectadas, porque se pueden separar y, cuando se conectan, podemos lograr una precisión muy alta.
+
+Otra conclusión es que el teorema de superposición sostiene que el voltaje a través de un elemento de un circuito lineal es la suma algebraica de los voltajes a través de ese elemento debido a las acciones individuales de cada fuente independiente.
+
+Finalmente, los resultados se presentan en una tabla de comparación y brindan una tasa de error satisfactoria para la mayoría de los parámetros, considerando los valores medidos.
 
 # 7. BIBLIOGRAFIA
