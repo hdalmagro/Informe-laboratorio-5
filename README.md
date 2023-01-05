@@ -72,12 +72,13 @@ Tabla 1
 
 Valores del Circuito Equivalente de Thévenin
 
-
+![image](https://user-images.githubusercontent.com/116781677/210860047-b54b1829-fc73-44c6-9fbf-c9588e90981c.png)
 
 Tabla 2 
 
 Comprobación del Teorema de Thévenin.
 
+![image](https://user-images.githubusercontent.com/116781677/210860152-91875c42-c7e4-4f2c-92fa-d647fd13d177.png)
 
 # 5. VIDEO
 
