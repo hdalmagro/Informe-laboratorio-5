@@ -62,11 +62,9 @@ Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida l
 ![image](https://user-images.githubusercontent.com/116781677/210851105-eb84fb17-f68c-41a5-b048-e96f193b74cf.png)
 ![image](https://user-images.githubusercontent.com/116781677/210854422-cab9270c-83c6-4086-8f27-25cf7448661f.png)
 
-TABLAS DE DATOS
-
-
-
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+TABLAS DE DATOS
 
 Tabla 1
 
@@ -92,3 +90,7 @@ Otra conclusión es que el teorema de superposición sostiene que el voltaje a t
 Finalmente, los resultados se presentan en una tabla de comparación y brindan una tasa de error satisfactoria para la mayoría de los parámetros, considerando los valores medidos.
 
 # 7. BIBLIOGRAFIA
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.). México: Pearson Educación. Recuperado el Enero de 2023
+
+
