@@ -62,6 +62,11 @@ Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida l
 ![image](https://user-images.githubusercontent.com/116781677/210851105-eb84fb17-f68c-41a5-b048-e96f193b74cf.png)
 ![image](https://user-images.githubusercontent.com/116781677/210854422-cab9270c-83c6-4086-8f27-25cf7448661f.png)
 
+Calculos correspondientes
+
+![image](https://user-images.githubusercontent.com/116781677/210912691-5db08b71-a3d5-4dd8-9ac8-3f0ab0b1193f.png)
+
+
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 TABLAS DE DATOS
@@ -77,6 +82,10 @@ Tabla 2
 Comprobación del Teorema de Thévenin.
 
 ![image](https://user-images.githubusercontent.com/116781677/210860152-91875c42-c7e4-4f2c-92fa-d647fd13d177.png)
+
+CALCULO DE ERROR
+
+![image](https://user-images.githubusercontent.com/116781677/210913801-6ecc59ba-382e-436d-83b8-637df60a1043.png)
 
 # 5. VIDEO
 
